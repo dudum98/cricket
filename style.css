@@ -1,0 +1,34 @@
+body {
+    background-color: #271B5B; 
+    color: #FFFFFF; 
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #FFFFFF; 
+    font-weight: bold;
+}
+
+p {
+    color: #FFFFFF; 
+}
+
+a {
+    color: #D70A0A; 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.dark-pink {
+    color: #FF00A5; 
+}
+img {
+    max-width: 20%;
+    height: auto;
+  }
+  
+
+  
